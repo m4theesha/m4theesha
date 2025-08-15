@@ -15,7 +15,7 @@
 {
   "life": "still in beta",
   "code_mode": true,
-  "stack": ["ctrl+z", "googling", "stack overflow surfing"],
+  "stack": ["ctrl+z", "googling", "github copilot"],
   "current_project": "something half-finished",
   "favorite_quote": "It works on my machine",
   "productivity": "peaks at 2am",
