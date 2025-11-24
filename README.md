@@ -4,11 +4,6 @@
 
 [![Github](https://img.shields.io/badge/NPM-fff?style=flat-square&logo=npm&logoColor=cc0000)](https://www.npmjs.com/~matheesha)
 
-### My Projects
-[![PinStack](https://api.pinstack.dev/gh/repo/ItsMatheesha/pinstack?theme=dark)](https://github.com/ItsMatheesha/pinstack)
-[![JWTkn](https://api.pinstack.dev/gh/repo/ItsMatheesha/jwtkn?theme=dark)](https://github.com/ItsMatheesha/jwtkn)
-[![JWT Sandbox](https://api.pinstack.dev/gh/repo/ItsMatheesha/jwt-sb?theme=dark)](https://github.com/ItsMatheesha/jwt-sb)
-
 ---
 
 ```Json
@@ -67,5 +62,3 @@
 
 #### Connect with me
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://linkedin.com/in/matheesha-ls)
-[![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/telegram.svg)](https://t.me/ItsMatheesha)
-[![WhatsApp](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/discord.svg)](https://discord.com/users/itsmatheesha)
