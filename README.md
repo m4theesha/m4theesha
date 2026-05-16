@@ -1,6 +1,6 @@
 ## Hello, It's Matheesha Senevirathne 👋
 
-> Aspiring SWE undergrad @ NIBM
+> Aspiring SWE
 
 [![Github](https://img.shields.io/badge/NPM-fff?style=flat-square&logo=npm&logoColor=cc0000)](https://www.npmjs.com/~matheesha)
 
