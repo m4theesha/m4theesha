@@ -40,7 +40,7 @@
 
 #### Tools
 <a href="https://github.com/syvixor/skills-icons">
-  <img src='https://skills.syvixor.com/api/icons?i=docker,npm,jsr,vite,git,github,figma' height=40px height=40px>
+  <img src='https://skills.syvixor.com/api/icons?i=docker,npm,vite,git,github' height=40px height=40px>
 </a>
 
 #### Runtime
@@ -55,7 +55,7 @@
 
 #### Databases
 <a href="https://github.com/syvixor/skills-icons">
-  <img src='https://skills.syvixor.com/api/icons?i=firebase,supabase,mysql' height=40px height=40px>
+  <img src='https://skills.syvixor.com/api/icons?i=firebase,supabase,appwrite,mysql' height=40px height=40px>
 </a>
 
 ---
