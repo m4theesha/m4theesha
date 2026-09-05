@@ -50,7 +50,7 @@
 
 #### Deployment
 <a href="https://github.com/syvixor/skills-icons">
-  <img src='https://skills.syvixor.com/api/icons?i=vercel' height=40px height=40px>
+  <img src='https://skills.syvixor.com/api/icons?i=vercel,digitalocean,cloudflare' height=40px height=40px>
 </a>
 
 #### Databases
