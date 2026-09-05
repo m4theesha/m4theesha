@@ -61,4 +61,4 @@
 ---
 
 #### Connect with me
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://linkedin.com/in/matheesha-ls)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://linkedin.com/in/itsmatheesha)
