@@ -18,8 +18,14 @@
   "logs": ["why is this working?", "no idea", "don’t touch it"]
 }
 ```
+### 📌 Pinned Projects
+<a href='https://github.com/m4theesha/jwtkn'>
+  <img src='https://pinstack.matheesha.workers.dev/github/repo/m4theesha/jwtkn'>
+</a>
 
-<img src='https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292.gif' height=100px width=100px>
+<a href='https://github.com/m4theesha/jwt-sb'>
+  <img src='https://pinstack.matheesha.workers.dev/github/repo/m4theesha/jwt-sb'>
+</a>
 
 ### Tech Stack:
       
