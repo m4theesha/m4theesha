@@ -19,12 +19,12 @@
 }
 ```
 ### 📌 Pinned Projects
-<a href='https://github.com/m4theesha/jwtkn'>
-  <img src='https://pinstack.matheesha.workers.dev/github/repo/m4theesha/jwtkn'>
+<a href='https://github.com/m4theesha/pinstack'>
+  <img src='https://pinstack.matheesha.workers.dev/github/repo/m4theesha/pinstack'>
 </a>
 
-<a href='https://github.com/m4theesha/jwt-sb'>
-  <img src='https://pinstack.matheesha.workers.dev/github/repo/m4theesha/jwt-sb'>
+<a href='https://github.com/m4theesha/jwtkn'>
+  <img src='https://pinstack.matheesha.workers.dev/github/repo/m4theesha/jwtkn'>
 </a>
 
 ### Tech Stack:
